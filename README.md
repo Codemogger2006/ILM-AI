@@ -1,4 +1,4 @@
-![ILM AI Logo](Black  Beige Modern Simple Minimal Vanilla Fashion Store  Logo.png)
+![ILM AI Logo](logo.png)
 # ILM AI — علم سب کے لیے
 ### Real-time Urdu Subtitles for YouTube
 
